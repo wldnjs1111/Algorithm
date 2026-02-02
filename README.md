@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/wldnjs1111/Algorithm/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/wldnjs1111/Algorithm/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/wldnjs1111/Algorithm/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/wldnjs1111/Algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
